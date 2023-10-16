@@ -1,0 +1,45 @@
+Processed Final spend data - April 2022.csv successfully.
+Processed Final Spend Data - April 2023.csv successfully.
+Processed Final Spend Data - July 2023.csv successfully.
+Processed Final spend data - June 2023.csv successfully.
+Processed Final spend data - May 2022_0.xlsx successfully.
+Processed Final spend data - May 2023.csv successfully.
+Processed Final Spend Data November 2022.csv successfully.
+Processed Final Spend Data October 2022.csv successfully.
+Processed Final-spend-August-2022.csv successfully.
+Processed final-spend-data-april-2021.csv successfully.
+Processed Final-spend-data-August 2023.csv successfully.
+Processed Final-spend-data-Feb-2022.csv successfully.
+Processed Final-spend-data-July-2022.csv successfully.
+Processed Final-spend-data-March-2022.csv successfully.
+Processed final-spend-data-may-2021.csv successfully.
+Processed final-spend-june-2020.csv successfully.
+Processed final_spend_data_april_2020.csv successfully.
+Processed final_spend_data_august_2020.csv successfully.
+Processed final_spend_data_august_2021.csv successfully.
+Processed Final_Spend_Data_December_2021.csv successfully.
+Processed FInal_Spend_Data_December_2022.csv successfully.
+Processed final_spend_data_february_2020.csv successfully.
+Processed final_spend_data_february_2021.csv successfully.
+Processed Final_Spend_Data_February_2023.csv successfully.
+Processed final_spend_data_january_2020.csv successfully.
+Processed final_spend_data_january_2021.csv successfully.
+Processed Final_Spend_Data_January_2022.csv successfully.
+Processed Final_Spend_Data_January_2023.csv successfully.
+Processed final_spend_data_july_2021.csv successfully.
+Processed final_spend_data_june_2021.csv successfully.
+Processed final_spend_data_march_2020.csv successfully.
+Processed final_spend_data_march_2021.csv successfully.
+Processed Final_Spend_Data_March_2023.csv successfully.
+Processed final_spend_data_november_2020.csv successfully.
+Processed Final_Spend_Data_November_2021.csv successfully.
+Processed final_spend_data_october_2020.xlsx successfully.
+Processed Final_Spend_Data_October_2021.csv successfully.
+Processed final_spend_data_september_2020.csv successfully.
+Processed Final_Spend_Data_September_2022.csv successfully.
+Processed final_spend_december_2020.csv successfully.
+Processed final_spend_july-2020.csv successfully.
+Processed Final_Spend_June_2022.csv successfully.
+Processed final_spend_may-2020.csv successfully.
+Processed final_spend_september_2021.csv successfully.
+Skipped log.txt as it is not a CSV or Excel file.
